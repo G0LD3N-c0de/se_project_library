@@ -441,8 +441,12 @@
   margin-bottom: 16px;
 }
 
+.footer__list-item:last-of-type {
+  margin-bottom: 0;
+}
+
 .footer__column-heading {
-  margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 
 .footer__column-link {
@@ -460,10 +464,6 @@
   height: 16px;
   width: 16px;
   margin-right: 8px;
-}
-
-.footer__list-text {
-  display: inline;
 }
 
 .footer__copyright {
