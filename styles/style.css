@@ -410,7 +410,6 @@
 
 .footer__columns {
   display: flex;
-  align-items: baseline;
 }
 
 .footer__column_content_hours {
